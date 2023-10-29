@@ -1,0 +1,257 @@
+.container{
+    background-color:whitesmoke;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+
+.amazonlogo{
+    display: block;
+    background-color: #232f3e;
+    border-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+  
+}
+
+.amazonlogo img {
+    height: 30px;
+    width:80px;
+    margin-left: 10px;
+}
+
+.menu{
+    background-color: #384351;
+    margin-top: 0px;
+    height:15px;
+    padding-top:5px;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    margin-top: 0px;
+    color: white;
+}
+
+.menu ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+.orangetitle{
+    background-color: #ff9900;
+    color: white;
+    text-align: center; 
+    margin-left: 50px;
+    margin-right: 50px; 
+    font-size: 10px;
+}
+
+.holiday{
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+
+.holiday img{
+    width: 100%;
+}
+
+.giftguides{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.p1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.p2 {
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.firstbox{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-top: 15px;
+}
+
+.find {
+    font-weight: 600;
+    font-size: 100%;
+    margin-left: 20px;
+}
+
+.shop{
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 100%;
+    margin-left: 15px;
+}
+
+.imgset1 img {
+    height: auto;
+    width: 22%;
+    border-radius: 20px;
+    padding-bottom: 15px;
+}
+
+.imgset1{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 15px;
+}
+
+.secondbox img{
+    height: 30%;
+    width: 1000px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-top: 15px;
+    
+}
+
+.find2 {
+    display: flex;
+    justify-content: center;
+}
+
+.span1 {
+    font-weight: 600;
+    font-size: 80%;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.span2 {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 60%;
+    margin-left: 15px;
+    
+}
+
+.thirdbox img{
+    height: 30%;
+    width: 1000px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-top: 15px;
+    
+}
+
+.extra {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.th {
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: left;
+}
+
+.descrizione {
+    font-size: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: left;
+}
+
+.gaming {
+    flex: 1;
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 15%;
+}
+
+.gaming img {
+    object-fit: cover;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.comfy {
+    flex: 1;
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 15%;
+}
+
+.comfy img {
+    object-fit: cover;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.holidaygifts {
+    flex: 1;
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 15%;
+}
+
+.holidaygifts img {
+    object-fit: cover;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.addjoy {
+    flex: 1;
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 15%;
+}
+
+.addjoy img {
+    object-fit: cover;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.backtotop {
+    background-color: #384351;
+    color: white;
+    
+}
+
+.backtotop h6 {
+    margin-left: 50%;
+    margin-bottom: 0;
+    height: 10px;
+    padding: 15px;
+}
+
+.amazonlogo2{
+    display: block;
+    background-color: #232f3e;
+    border-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    height: 150px;
+  
+}
+
+.amazonlogo2 img {
+    margin-top: 50px;
+    margin-left: 50%;
+    height: 40px;
+    width: 90px;
+}
